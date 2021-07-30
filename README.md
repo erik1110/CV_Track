@@ -11,5 +11,6 @@
 - Tools
   | Type | Name | Code |
   |:---|:---|:---|
-  |Data Augmentation|Augmentor|[Augmentor](https://github.com/mdbloice/Augmentor)|
+  |Data Augmentation|Augmentor|[link](https://github.com/mdbloice/Augmentor)|
+  |Dataset|Traditional Chinese Handwriting Dataset|[link](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset)|
 
